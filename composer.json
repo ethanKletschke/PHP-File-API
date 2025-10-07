@@ -1,0 +1,19 @@
+{
+    "name": "ethan-kletscke/php-files",
+    "description": "A file-handling practice API for PHP.",
+    "type": "library",
+    "version": "0.1.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EthanKletscke\\PhpFiles\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ethan Kletschke",
+            "email": "bbruhingson@gmail.com"
+        }
+    ],
+    "require": {}
+}
